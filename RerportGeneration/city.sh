@@ -1,0 +1,1 @@
+sed -n '/Chennai/p' subscriber.txt > chennai.txt

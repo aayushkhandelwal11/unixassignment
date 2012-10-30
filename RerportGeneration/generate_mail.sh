@@ -1,0 +1,1 @@
+sed -n '/yahoo.com/p' subscriber.txt > mail.txt
